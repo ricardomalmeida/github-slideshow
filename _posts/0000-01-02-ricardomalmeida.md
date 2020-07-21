@@ -5,8 +5,8 @@ title: "Welcome to our second slide!"
 Primeiro edit seguindo o pasito-a-pasito
 # tit
 ## subtit
--isto
--aquilo
+- isto
+- aquilo
 
 ### e tb
 1. fulano
